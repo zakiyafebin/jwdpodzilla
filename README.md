@@ -31,9 +31,9 @@
  </head>
  <body>
    <div class="card">
-     <img src="./images/Julie_2.jpg" alt="Julie" style="width: 100%" />
-     <h1>Julie</h1>
-     <p class="role">Student, JWD07 - Podzilla</p>
+     <img src="./images/yourimagefilename.jpg" alt="" style="width: 100%" />
+     <h1>Your name</h1>
+     <p class="role">Role, JWD07 - Podzilla</p>
      <p>Generation, Australia</p>
      <p><a href="index.html"><< Home</a></p>
    </div>
